@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Your Name - your.email@example.com
-Project Link: [https://github.com/your-repo/image-processing-pipeline](https://github.com/your-repo/image-processing-pipeline)
+Project Link: [https://github.com/ViratSrivastava/TIF-automated-Pipeline](https://github.com/ViratSrivastava/TIF-automated-Pipeline)
 
 ## Acknowledgments
 
